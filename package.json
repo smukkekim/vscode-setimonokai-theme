@@ -1,6 +1,6 @@
 {
     "name": "theme-setimonokai",
-    "displayName": "theme-SetiMonokai",
+    "displayName": "Theme - Seti-Monokai",
     "description": "Port of the Seti-Monokai color scheme",
     "version": "0.0.1",
     "publisher": "SmukkeKim",
@@ -10,6 +10,12 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/icon.png",
+    "homepage": "https://github.com/smukkekim/vscode-setimonokai-theme/blob/master/README.md",
+    "repository": {
+     "type": "git",
+     "url": "https://github.com/smukkekim/vscode-setimonokai-theme.git"
+    },
     "contributes": {
         "themes": [
             {
