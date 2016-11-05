@@ -1,0 +1,22 @@
+{
+    "name": "theme-setimonokai",
+    "displayName": "theme-SetiMonokai",
+    "description": "Port of the Seti-Monokai color scheme",
+    "version": "0.0.1",
+    "publisher": "SmukkeKim",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Seti Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SetiMonokai.tmTheme"
+            }
+        ]
+    }
+}

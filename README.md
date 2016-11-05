@@ -1,2 +1,5 @@
-# vscode-setimonokai-theme
-Port of Seti Monokai theme for Visual Studio Code
+# Seti Monokai color scheme
+
+A port of the Seti Monokai color scheme.
+
+## Screenshots
