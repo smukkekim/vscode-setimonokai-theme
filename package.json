@@ -22,6 +22,11 @@
                 "label": "Seti Monokai",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SetiMonokai.tmTheme"
+            },
+            {
+                "label": "Seti Monokai Pale Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SetiMonokai_PaleNight.tmTheme"
             }
         ]
     }
