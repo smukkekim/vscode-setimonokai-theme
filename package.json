@@ -38,6 +38,11 @@
                 "label": "Seti Monokai: Dark Forest",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SetiMonokai_DarkForest.tmTheme"
+            },
+            {
+                "label": "Seti Monokai: Space",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SetiMonokai_Space.tmTheme"
             }
         ]
     }
