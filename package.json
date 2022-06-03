@@ -32,6 +32,12 @@
                 "label": "Seti Monokai: Royal",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SetiMonokai_Royal.tmTheme"
+            },
+
+            {
+                "label": "Seti Monokai: Dark Forest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SetiMonokai_DarkForest.tmTheme"
             }
         ]
     }
