@@ -19,14 +19,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Seti Monokai",
+                "label": "Seti Monokai: Original",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SetiMonokai.tmTheme"
             },
             {
-                "label": "Seti Monokai Pale Night",
+                "label": "Seti Monokai: Pale Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SetiMonokai_PaleNight.tmTheme"
+            },
+            {
+                "label": "Seti Monokai: Royal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SetiMonokai_Royal.tmTheme"
             }
         ]
     }
