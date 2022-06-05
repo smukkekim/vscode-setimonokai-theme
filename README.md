@@ -12,6 +12,7 @@ A port of the Seti Monokai color scheme.
 ---
 
 ## Theme Variants
+By [@rohit-kumar-j](https://github.com/rohit-kumar-j)
 
 ### Space
 
